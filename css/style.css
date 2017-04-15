@@ -1,0 +1,22 @@
+.black {
+  background-color: black;
+  color: white;
+}
+
+.practice {
+  padding-left: 15px;
+}
+
+.jumbotron {
+  text-align: center;
+  color: black;
+}
+
+.nav {
+  padding-left: 15px;
+}
+
+.well {
+  color: black;
+  text-align: center;
+}
